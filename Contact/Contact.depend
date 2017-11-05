@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1509894133 source:f:\codeblocks\contact\addressmanager.cpp
+	"AddressManager.h"
+
+1509871702 f:\codeblocks\contact\addressmanager.h
+	"List.h"
+
+1509872304 f:\codeblocks\contact\list.h
+	"Node.h"
+
+1509888656 f:\codeblocks\contact\node.h
+	"Record.h"
+
+1509872304 f:\codeblocks\contact\record.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+
+1509891701 source:f:\codeblocks\contact\list.cpp
+	"List.h"
+
+1509859584 source:f:\codeblocks\contact\main.cpp
+	<iostream>
+	<stdlib.h>
+	"AddressManager.h"
+
+1509889449 source:f:\codeblocks\contact\node.cpp
+	"Node.h"
+
+1509869710 source:f:\codeblocks\contact\record.cpp
+	"Record.h"
+
